@@ -1,5 +1,7 @@
 # **Behavioral Cloning** 
 
+![](cloning.gif)
+
 ## Writeup 
 
 ---
